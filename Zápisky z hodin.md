@@ -78,30 +78,28 @@ _Příklady:_
 
 ### 🎨 Barevné palety
 
-> - Monochromatická
-> - Analogická
-> - Doplňková
->
-> ---
->
+> - **Monochromatická**
+> - **Analogická**
+> - **Doplňková**
 > - [Paletton](https://paletton.com/)
->
-> ---
->
-> _Další zdroje palet:_
->
-> - [Paletton.com](https://paletton.com/)
-> - [ColorDesigner.io](https://colordesigner.io/)
-> - [Coolors](https://coolors.co/)
-> - [ColorSpace](https://mycolor.space/)
-> - [Colorhunt](https://colorhunt.co/)
-> - [ColorPalettes.Earth](https://colorpalettes.earth/)
-> - [HueMint](https://huemint.com/)
-> - [CSS Gradient](https://cssgradient.io/)
-> - [Parametric Mixer](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset)
-> - [Palettte.](https://palettte.app/)
-> - [Grabient](https://www.grabient.com/)
-> - [Easing Gradients](https://larsenwork.com/easing-gradients/#editor)
+> - (YT) [Beginning Graphic Design: Color](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+
+_Další zdroje palet:_
+
+- [Paletton.com](https://paletton.com/)
+- [ColorDesigner.io](https://colordesigner.io/)
+- [Coolors](https://coolors.co/)
+- [ColorSpace](https://mycolor.space/)
+- [Colorhunt](https://colorhunt.co/)
+- [ColorPalettes.Earth](https://colorpalettes.earth/)
+- [HueMint](https://huemint.com/)
+- [CSS Gradient](https://cssgradient.io/)
+- [Parametric Mixer](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset)
+- [Palettte.](https://palettte.app/)
+- [Grabient](https://www.grabient.com/)
+- [Easing Gradients](https://larsenwork.com/easing-gradients/#editor)
+
+---
 
 <div style="height: 20px; background: linear-gradient(
   to right, 
@@ -119,12 +117,12 @@ _Příklady:_
   hsl(83, 21%, 42%) 100%
 );" ></div>
 
-> **Monochromatická paleta**
+#### **Monochromatická paleta**
 
 - Odstíny jedné barvy.
 - V prostoru HSL stejné _H - hue_.
 
----
+_Příklad palety:_
 
 - `hsl(88, 57%, 91%)`,
 - `hsl(87, 40%, 80%)`,
@@ -148,12 +146,12 @@ _Příklady:_
 );">
 </div>
 
-> **Analogická paleta**
+#### **Analogická paleta**
 
 - Odstíny barev vedle sebe v barevném kruhu.
 - V prostoru HSL podobné hodnoty _H - hue_.
 
----
+_Příklad palety:_
 
 - `hsl(349, 98%, 24%)`,
 - `hsl(39, 92%, 59%)`,
@@ -176,12 +174,12 @@ _Příklady:_
 );">
 </div>
 
-> **Doplňková paleta**
+#### **Doplňková paleta**
 
 - Barvy naproti sobě v barevném kruhu.
 - V prostoru HSL rozdíl v hodnotě _H - hue_ přibližně 180°.
 
----
+_Příklad palety:_
 
 - `hsl(349, 98%, 24%)`,
 - `hsl(349, 50%, 12%)`,
