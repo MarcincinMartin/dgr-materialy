@@ -20,8 +20,6 @@
 - **256** hodnot pro každou barvu
 - **16 777 216** barev
 
----
-
 - `rgb(0, 0, 0)` = černá
 - `rgb(255, 255, 255)` = bílá
 - `rgb(100, 100, 100)` = světle šedá
@@ -30,6 +28,8 @@
 - `rgb(0, 0, 255)` = modrá
 
 **_Hodnoty odpovídají svítivosti subpixelů v displeji, monitoru, ..._**
+
+---
 
 #### **HEX**
 
