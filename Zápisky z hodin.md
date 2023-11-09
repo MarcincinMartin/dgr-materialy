@@ -1,4 +1,16 @@
-# Design a grafika, 1. IT
+## Design a grafika, 1. IT
+
+- [Principy grafického designu](#principy-grafického-designu)
+  - [🎨 Barvy](#-barvy)
+    - [🏳️‍🌈 Barevné prostory](#️-barevné-prostory)
+      - [**RGB**](#rgb)
+      - [**HEX**](#hex)
+      - [**CMYK**](#cmyk)
+      - [**HSL**](#hsl)
+    - [🎨 Barevné palety](#-barevné-palety)
+      - [**Monochromatická paleta**](#monochromatická-paleta)
+      - [**Analogická paleta**](#analogická-paleta)
+      - [**Doplňková paleta**](#doplňková-paleta)
 
 # Principy grafického designu
 
