@@ -6,11 +6,11 @@
 
 ### 🏳️‍🌈 Barevné prostory
 
-- **RGB**
-- **HEX**
-- **CMYK**
-- **HSL**
-- (YT) [The Slow Mo Guys: How a TV Works in Slow Motion](https://www.youtube.com/watch?v=3BJU2drrtCM&t=601s)
+> - **RGB**
+> - **HEX**
+> - **CMYK**
+> - **HSL**
+> - (YT) [The Slow Mo Guys: How a TV Works in Slow Motion](https://www.youtube.com/watch?v=3BJU2drrtCM&t=601s)
 
 #### **RGB**
 
@@ -39,7 +39,7 @@ _Příklady:_
 - Čísla v hexadecimálním tvaru
 - Často v CSS
 
----
+_Příklady:_
 
 - `#000000` = černá
 - `#FFFFFF` = bílá
@@ -48,32 +48,36 @@ _Příklady:_
 - `#00FF00` = zelená
 - `#0000FF` = modrá
 
-> **CMYK**
+---
+
+#### **CMYK**
 
 - Cyan, Magenta, Yellow, Black (Key)
 - **subtraktivní** barevný prostor
 - skládání barev
 
----
+_Příklady:_
 
-- `cmyk(0, 0, 0, 0)`
-- `cmyk(0, 0, 0, 100%)`
-- `cmyk(100%, 0, 0, 0)`
-- `cmyk(0, 100%, 0, 0)`
-- `cmyk(0, 0, 100%, 0)`
+- `cmyk(0, 0, 0, 0)` = bílá
+- `cmyk(0, 0, 0, 100%)` = černá
+- `cmyk(100%, 0, 0, 0)` = cyan
+- `cmyk(0, 100%, 0, 0)` = magenta
+- `cmyk(0, 0, 100%, 0)` = žlutá
 
 **_Hodnoty odpovídají množství toneru._**
 
-> **HSL**
+---
+
+#### **HSL**
 
 - Hue, Saturation, Lightness
 - Barva, sytost, světlost
 - `hsl(240deg, 100%, 50%)`
 
+---
+
 ### 🎨 Barevné palety
 
-> [!NOTE] **Barevné palety**
->
 > - Monochromatická
 > - Analogická
 > - Doplňková
