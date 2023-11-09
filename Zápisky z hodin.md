@@ -6,16 +6,14 @@
 
 ### 🏳️‍🌈 Barevné prostory
 
-> [!NOTE] Barevné prostory
->
-> - RGB
-> - HEX
-> - CMYK
-> - HSL
->
-> ---
->
-> - (YT) [The Slow Mo Guys: How a TV Works in Slow Motion](https://www.youtube.com/watch?v=3BJU2drrtCM&t=601s)
+- **RGB**
+- **HEX**
+- **CMYK**
+- **HSL**
+
+---
+
+- **(YT) [The Slow Mo Guys: How a TV Works in Slow Motion](https://www.youtube.com/watch?v=3BJU2drrtCM&t=601s)**
 
 > **RGB**
 
