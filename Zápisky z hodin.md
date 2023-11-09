@@ -20,6 +20,8 @@
 - **256** hodnot pro každou barvu
 - **16 777 216** barev
 
+_Příklady:_
+
 - `rgb(0, 0, 0)` = černá
 - `rgb(255, 255, 255)` = bílá
 - `rgb(100, 100, 100)` = světle šedá
