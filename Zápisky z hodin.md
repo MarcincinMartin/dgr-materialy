@@ -15,7 +15,7 @@
 
 - **(YT) [The Slow Mo Guys: How a TV Works in Slow Motion](https://www.youtube.com/watch?v=3BJU2drrtCM&t=601s)**
 
-> **RGB**
+#### **RGB**
 
 - Red, Green, Blue
 - **aditivní** barevný prostor
