@@ -143,6 +143,8 @@ _Příklad palety:_
 - `hsl(82, 18%, 51%)`,
 - `hsl(83, 21%, 42%)`.
 
+---
+
 <div style="height: 20px; background: linear-gradient(
   to right,
   hsl(349, 98%, 24%) 0%,
@@ -170,6 +172,8 @@ _Příklad palety:_
 - `hsl(29, 72%, 50%)`,
 - `hsl(16, 69%, 51%)`,
 - `hsl(3, 67%, 46%)`.
+
+---
 
 <div style="height: 20px; background: linear-gradient(
   to right,
