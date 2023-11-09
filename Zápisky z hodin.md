@@ -175,6 +175,8 @@ _Příklad palety:_
 
 ---
 
+#### **Doplňková paleta**
+
 <div style="height: 20px; background: linear-gradient(
   to right,
   hsl(349, 98%, 24%) 0%,
@@ -189,8 +191,6 @@ _Příklad palety:_
   hsl(169, 68%, 12%) 80%
 );">
 </div>
-
-#### **Doplňková paleta**
 
 - Barvy naproti sobě v barevném kruhu.
 - V prostoru HSL rozdíl v hodnotě _H - hue_ přibližně 180°.
