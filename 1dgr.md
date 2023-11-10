@@ -11,6 +11,9 @@
       - [**Monochromatická paleta**](#monochromatická-paleta)
       - [**Analogická paleta**](#analogická-paleta)
       - [**Doplňková paleta**](#doplňková-paleta)
+  - [🔠 Typografie](#-typografie)
+    - [🅰️ Font a jeho vlastnosti](#️-font-a-jeho-vlastnosti)
+      - [Patkové _serif_](#patkové-serif)
 
 # Principy grafického designu
 
@@ -22,7 +25,7 @@
 > - **HEX**
 > - **CMYK**
 > - **HSL**
-> - (YT) [The Slow Mo Guys: How a TV Works in Slow Motion](https://www.youtube.com/watch?v=3BJU2drrtCM&t=601s)
+> - [▶️ The Slow Mo Guys: How a TV Works in Slow Motion](https://www.youtube.com/watch?v=3BJU2drrtCM&t=601s)
 
 #### **RGB**
 
@@ -94,7 +97,7 @@ _Příklady:_
 > - **Analogická**
 > - **Doplňková**
 > - [Paletton](https://paletton.com/)
-> - (YT) [Beginning Graphic Design: Color](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+> - [▶️ Beginning Graphic Design: Color](https://www.youtube.com/watch?v=_2LLXnUdUIc)
 
 _Další zdroje palet:_
 
@@ -202,3 +205,31 @@ _Příklad palety:_
 - `hsl(169, 98%, 60%)`,
 - `hsl(169, 98%, 24%)`,
 - `hsl(169, 68%, 12%)`.
+
+---
+
+## 🔠 Typografie
+
+### 🅰️ Font a jeho vlastnosti
+
+> - **Patkové** _serif_
+> - **Bezpatkové** _sans-serif_
+> - **Neproporciální** _monospace_
+> - **VERZÁLKY** a **minusky**
+> - **Řez** a **Stín**
+> - **Řádkování** _line spacing_
+> - **Prokládání** _letter spacing_
+> - [▶️ Beggining Graphics Design: Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
+> - [Google Fonts](https://fonts.google.com/)
+
+---
+
+#### Patkové _serif_
+
+- **Patky** na koncích písmen
+- tradičnější vzhled
+- snadnější čtení na papíře
+
+_Příklad: Times New Roman_
+
+>  <p style="font-family: 'Times New Roman', serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
