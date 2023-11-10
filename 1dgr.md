@@ -14,6 +14,11 @@
   - [🔠 Typografie](#-typografie)
     - [🅰️ Font a jeho vlastnosti](#️-font-a-jeho-vlastnosti)
       - [Patkové _serif_](#patkové-serif)
+      - [**Bezpatkové** _sans-serif_](#bezpatkové-sans-serif)
+      - [**Neproporciální** _monospace_](#neproporciální-monospace)
+      - [**Řádkování** _leading_](#řádkování-leading)
+      - [**Prokládání** _letter spacing, tracking_](#prokládání-letter-spacing-tracking)
+      - [**Tučnost** _weight_](#tučnost-weight)
 
 # Principy grafického designu
 
@@ -217,7 +222,7 @@ _Příklad palety:_
 > - **Neproporciální** _monospace_
 > - **VERZÁLKY** a **minusky**
 > - **Řez** a **Stín**
-> - **Řádkování** _line spacing_
+> - **Řádkování** _leading_
 > - **Prokládání** _letter spacing_
 > - [▶️ Beggining Graphics Design: Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
 > - [Google Fonts](https://fonts.google.com/)
@@ -226,10 +231,106 @@ _Příklad palety:_
 
 #### Patkové _serif_
 
-- **Patky** na koncích písmen
-- tradičnější vzhled
-- snadnější čtení na papíře
+- **Patky** na koncích písmen.
+- Tradičnější vzhled.
+- Snadnější čtení na papíře.
 
 _Příklad: Times New Roman_
 
 >  <p style="font-family: 'Times New Roman', serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: Georgia_
+
+>  <p style="font-family: 'Georgia', serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: Palatino_
+
+>  <p style="font-family: 'Palatino', serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+---
+
+#### **Bezpatkové** _sans-serif_
+
+- Nemá patky.
+- Modernější vzhled.
+- Snadnější čtení na obrazovce.
+
+_Příklad: Arial_
+
+>  <p style="font-family: 'Arial', sans-serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: Helvetica_
+
+>  <p style="font-family: 'Helvetica', sans-serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: Verdana_
+
+>  <p style="font-family: 'Verdana', sans-serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+---
+
+#### **Neproporciální** _monospace_
+
+- Každé písmeno zabírá stejně místa.
+- Používá se pro čísla.
+- Používá se pro kódování.
+
+_Příklad: Consolas_
+
+>  <p style="font-family: 'Consolas', monospace;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+---
+
+#### **Řádkování** _leading_
+
+- Výška řádku, v násobcích velikosti písma.
+
+_Příklad: 1x_
+
+>  <p style="line-height: 1;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: 1,5x_
+
+>  <p style="line-height: 1.5;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: 2x_
+
+>  <p style="line-height: 2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+---
+
+#### **Prokládání** _letter spacing, tracking_
+
+- Mezery mezi písmeny, v pixelech.
+
+_Příklad: 0px_
+
+>  <p style="letter-spacing: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: 1px_
+
+>  <p style="letter-spacing: 1px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: 3px_
+
+>  <p style="letter-spacing: 3px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+---
+
+#### **Tučnost** _weight_
+
+- Tloušťka písma.
+
+_Příklad: 100_
+
+>  <p style="font-weight: 100;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: 400_
+
+>  <p style="font-weight: 400;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+_Příklad: 900_
+
+>  <p style="font-weight: 900;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+---
