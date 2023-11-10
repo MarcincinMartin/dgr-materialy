@@ -19,6 +19,12 @@
       - [**Řádkování** _leading_](#řádkování-leading)
       - [**Prokládání** _letter spacing, tracking_](#prokládání-letter-spacing-tracking)
       - [**Tučnost** _weight_](#tučnost-weight)
+    - [📃 Typografická Pravidla](#-typografická-pravidla)
+      - [**Datum**](#datum)
+      - [**Čas**](#čas)
+      - [**Interpunkce: Za je mezera, před není.**](#interpunkce-za-je-mezera-před-není)
+      - [**Závorky, uvozovky české, kolem textu uvnitř.**](#závorky-uvozovkyčeské-kolem-textu-uvnitř)
+      - [Konce řádků, stránek](#konce-řádků-stránek)
 
 # Principy grafického designu
 
@@ -332,5 +338,67 @@ _Příklad: 400_
 _Příklad: 900_
 
 >  <p style="font-weight: 900;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum libero autem consequatur officiis et quidem repellendus temporibus recusandae numquam? Asperiores nemo odio accusamus? Voluptates veritatis alias perspiciatis ea inventore expedita.</p>
+
+---
+
+### 📃 Typografická Pravidla
+
+> - **Datum**
+> - **Čas**
+> - **Interpunkce**
+> - **Závorky a uvozovky**
+> - **Konce řádků, stránek**
+
+---
+
+#### **Datum**
+
+- `8. 2. 2000`
+- `8. února`
+- `8.-9. 2.`
+- `8. 2. - 2. 3.`
+
+---
+
+#### **Čas**
+
+- `11:30:23`
+- `11.20:20`
+
+---
+
+#### **Interpunkce: Za je mezera, před není.**
+
+- ... končí věta. A začíná další...
+- Prosím, i v souvětí.
+- Řekl: „Na interpunckí záleží!“
+
+---
+
+#### **Závorky, uvozovky české, kolem textu uvnitř.**
+
+- Důležité (texty i uvnitř závorek) se naučíte.
+- Uvozovky používej „české“ (99 - 66).
+
+---
+
+#### Konce řádků, stránek
+
+_Konce řádků, stránek nesmí roztrhnout myšlenku, objekt_
+
+**Nerozděluj**
+
+- Jméno
+- Telefonní číslo
+- Adresa
+- Název
+- Předložku jednopísmennou, neslabičnou
+  - _(k domovu, s ním, v lese)_
+
+**Vyvaruj se:**
+
+- Řádek v odstavci není sám.
+- Nadpis a následující odstavec patří k sobě.
+- Pole pro podpis není na prázdné straně.
 
 ---
