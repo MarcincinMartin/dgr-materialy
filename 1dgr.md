@@ -24,7 +24,13 @@
       - [**Čas**](#čas)
       - [**Interpunkce: Za je mezera, před není.**](#interpunkce-za-je-mezera-před-není)
       - [**Závorky, uvozovky české, kolem textu uvnitř.**](#závorky-uvozovkyčeské-kolem-textu-uvnitř)
-      - [Konce řádků, stránek](#konce-řádků-stránek)
+      - [**Konce řádků, stránek**](#konce-řádků-stránek)
+  - [🖼️ Design](#️-design)
+    - [Principy](#principy)
+      - [**Kontrast** _contrast_](#kontrast-contrast)
+      - [**Opakování** _repetition_](#opakování-repetition)
+      - [**Zarovnání** _alignment_](#zarovnání-alignment)
+      - [**Blízkost** _proximity_](#blízkost-proximity)
 
 # Principy grafického designu
 
@@ -371,7 +377,7 @@ _Příklad: 900_
 
 - ... končí věta. A začíná další...
 - Prosím, i v souvětí.
-- Řekl: „Na interpunckí záleží!“
+- Řekl: „Na interpuncki záleží!“
 
 ---
 
@@ -382,7 +388,7 @@ _Příklad: 900_
 
 ---
 
-#### Konce řádků, stránek
+#### **Konce řádků, stránek**
 
 _Konce řádků, stránek nesmí roztrhnout myšlenku, objekt_
 
@@ -400,5 +406,55 @@ _Konce řádků, stránek nesmí roztrhnout myšlenku, objekt_
 - Řádek v odstavci není sám.
 - Nadpis a následující odstavec patří k sobě.
 - Pole pro podpis není na prázdné straně.
+
+---
+
+## 🖼️ Design
+
+### Principy
+
+> - **Kontrast**
+> - **Opakování**
+> - **Zarovnání**
+> - **Blízkost**
+> - [▶️ Beggining Graphic Design: Fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0&list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ&index=3)
+> - [▶️ Beginning Graphic Design: Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8&list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ&index=7)
+
+#### **Kontrast** _contrast_
+
+> _Co je důležité a co není?_
+
+- **Čitelnost - tmavé, světlé**
+  - Text musí být dostatečně velký, barva dostatečně kontrastní.
+- **Hierarchie - velké, malé**
+  - Důležité ➡️ výraznější
+- **Pozornost**
+  - Kontrastnější prvky upoutají pozornost.
+  - Čeho si má návštěvník všimnout?
+
+---
+
+#### **Opakování** _repetition_
+
+- **Uvnitř projektu**
+  - Stejná funkce ➡️Stejný vzhled
+- **Obecně**
+  - Drž se obvyklých vzorců
+  - Logo v levém horním rohu = Domů
+
+---
+
+#### **Zarovnání** _alignment_
+
+- Velikosti _všeho_ jsou násobkem základního rozměru.
+- Vypadá to pod sebou – je to přesně pod sebou.
+
+_To neznamená, že vše je stejně velké!_
+
+---
+
+#### **Blízkost** _proximity_
+
+_Když to spolu souvisí, je to u sebe._
 
 ---
