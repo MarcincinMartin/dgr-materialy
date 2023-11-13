@@ -31,6 +31,7 @@
       - [**Opakování** _repetition_](#opakování-repetition)
       - [**Zarovnání** _alignment_](#zarovnání-alignment)
       - [**Blízkost** _proximity_](#blízkost-proximity)
+- [WebDesign](#webdesign)
 
 # Principy grafického designu
 
@@ -458,3 +459,10 @@ _To neznamená, že vše je stejně velké!_
 _Když to spolu souvisí, je to u sebe._
 
 ---
+
+# WebDesign
+
+> - **Wireframe**
+> - **UI** _user interface_
+> - **UX** _user experience_
+> - **Mobile first**
