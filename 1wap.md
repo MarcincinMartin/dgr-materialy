@@ -127,7 +127,7 @@ Některé příklady:
 
 1. Vytvořte si účet na [GitHubu](http://github.com).
 2. Připojte se ke třídě a zadání pomocí odkazu v MS Teams.
-3. Otevřete odkza "Open in VS Code".
+3. Otevřete odkaz "Open in VS Code".
 4. Odsouhlaste instalaci rozšíření.
 5. Otevřete terminál. _(`Ctrl`+`;`)_
 6. Zadejte postupně:
