@@ -1,5 +1,6 @@
 ## Webové aplikace, 1. IT
 
+- [🌐 Odkazy](#-odkazy)
 - [🪛 Nástroje](#-nástroje)
   - [🖥️ Vývojové prostředí](#️-vývojové-prostředí)
     - [Visual Studio Code](#visual-studio-code)
@@ -14,6 +15,17 @@
   - [💾 Správa verzí](#-správa-verzí)
     - [Git](#git)
     - [GitHub](#github)
+
+# 🌐 Odkazy
+
+- [HTML Standard](https://html.spec.whatwg.org/)
+- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Can I Use](https://caniuse.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+- [GitHub](http://github.com)
+- [Můj web](http://marcincin.epsilon.spstrutnov.cz/vyuka/1itwap/)
 
 # 🪛 Nástroje
 
