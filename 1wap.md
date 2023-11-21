@@ -5,6 +5,15 @@
     - [Visual Studio Code](#visual-studio-code)
     - [Prettier](#prettier)
     - [W3C Web Validator](#w3c-web-validator)
+    - [Emmet](#emmet)
+  - [🌐 Internetový prohlížeč](#-internetový-prohlížeč)
+    - [Google Chrome](#google-chrome)
+  - [⌨️ Klávesové zkratky](#️-klávesové-zkratky)
+    - [Obecné (Windows)](#obecné-windows)
+    - [Prohlížeč](#prohlížeč)
+  - [💾 Správa verzí](#-správa-verzí)
+    - [Git](#git)
+    - [GitHub](#github)
 
 # 🪛 Nástroje
 
@@ -55,3 +64,83 @@
 
 > **Tip:**
 > V nastavení je možné zapnout _Validate on Save_.
+
+---
+
+### [Emmet](https://marketplace.visualstudio.com/items?itemName=emmetio.emmet)
+
+> **_Emmet_** je rozšíření, které nám pomůže psát HTML a CSS rychleji.
+> Není nutné ho instalovat, je součástí VS Code.
+
+Některé příklady:
+
+- `!` => HTML šablona
+- `div` => `<div></div>`
+- `div#id` => `<div id="id"></div>`
+- `div.class` => `<div class="class"></div>`
+- `ul>li*3` => `<ul><li></li><li></li><li></li></ul>`
+
+---
+
+## 🌐 Internetový prohlížeč
+
+### [Google Chrome](https://www.google.com/intl/cs_CZ/chrome/)
+
+- Freeware
+- Vývojářské nástroje (DevTools) pomocí `F12`
+
+## ⌨️ Klávesové zkratky
+
+### Obecné (Windows)
+
+- `Ctrl`+`C` => Zkopírovat
+- `Ctrl`+`V` => Vložit
+- `Ctrl`+`X` => Vyjmout
+- `Ctrl`+`Z` => Zpět
+- `Ctrl`+`Y` => Vpřed
+- `Ctrl`+`S` => Uložit
+- `Alt`+`Tab` => Přepínání oken
+- `Alt`+`F4` => Zavřít okno
+- `Ctrl`+`Tab` => Přepínání panelů
+- `Ctrl`+`F4` => Zavřít panel
+- `Ctrl`+ `0` => Nastavit velikost zobrazení na 100%
+
+### Prohlížeč
+
+- `F5` => Obnovit stránku
+- `Shift`+`F5` => Obnovit stránku (ignoruje cache)
+- `F12` => Otevřít vývojářské nástroje
+
+## 💾 Správa verzí
+
+### [Git](https://git-scm.com/)
+
+> **_Git_** je nástroj, který nám umožňuje spravovat zdrojové kódy a jejich verze.
+
+1. Stáhněte si [Git](https://git-scm.com/).
+2. Spusťte instalaci.
+3. Restartujte VS Code.
+
+### [GitHub](http://github.com)
+
+> **_GitHub_** je webová služba používající Git.
+
+1. Vytvořte si účet na [GitHubu](http://github.com).
+2. Připojte se ke třídě a zadání pomocí odkazu v MS Teams.
+3. Otevřete odkza "Open in VS Code".
+4. Odsouhlaste instalaci rozšíření.
+5. Otevřete terminál. _(`Ctrl`+`;`)_
+6. Zadejte postupně:
+   ```powershell
+    git config --global user.name "uživatelské jméno na GitHub"
+    git config --global user.email "email na GitHub"
+   ```
+7. Ve škole navíc zadejte:
+   ```powershell
+    git config --global http.proxy "adresa proxy"
+   ```
+8. Otevřete rozšíření GitHub _(logo kočky)_.
+9. Přihlaste se.
+10. Otevřete zadání.
+
+---
